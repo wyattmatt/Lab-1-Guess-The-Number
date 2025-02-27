@@ -30,6 +30,7 @@ This project follows a structured workspace with the following folders:
 
 ## Scoring System
 - Points are calculated as:
+  
   ```
   (difficulty max range * 2) / attempts
   ```
